@@ -4,7 +4,7 @@ Este repositório contém o currículo atualizado de Bernardo Ebel, estudante de
 ## Sobre o Currículo
 - Formato: PDF
 - Última atualização: 2025
-- Objetivo: Vaga de estágio na área de programação e desenvolvimento de software.
+- Objetivo: Vaga de estágio ou programador junior na área de programação e desenvolvimento de software.
 - Conteúdo: Experiência acadêmica, projetos pessoais, habilidades técnicas e contato.
 
 ## Como visualizar
