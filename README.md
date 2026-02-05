@@ -1,15 +1,13 @@
-# Bernardo Ebel
-Este repositório contém o currículo atualizado de Bernardo Ebel, estudante de Análise e Desenvolvimento de Sistemas, focado em oportunidades na área de desenvolvimento backend e .NET.
+# Bernardo Ebel — Backend Developer (.NET)
 
-## Sobre o Currículo
-- Formato: PDF
-- Última atualização: 2025
-- Objetivo: Vaga de estágio ou programador junior na área de programação e desenvolvimento de software.
-- Conteúdo: Experiência acadêmica, projetos pessoais, habilidades técnicas e contato.
+This repository contains my professional resume.
 
-## Como visualizar
-Você pode baixar e visualizar o arquivo diretamente aqui no repositório: <br>
-[Currículo Bernardo Ebel (PDF)](Currículo.pdf)
+## 📄 Resume
+- [Download Resume (EN)](./Bernardo_Ebel_Resume_EN.pdf)
+- [Download Resume (PT)](./Bernardo_Ebel_Resume_PT.pdf)
+
+## 🔧 Tech Stack
+C#, .NET, ASP.NET Core, Entity Framework, SQL Server, Blazor
 
 ## Contato 
 GitHub: [/EbelBernardo](https://github.com/EbelBernardo) <br>
